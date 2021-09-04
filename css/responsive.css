@@ -261,7 +261,14 @@
         transition: .4s;
         margin: 10px;
     }
+    #pricing-part .main .text .img-rocket {
+        left: 125px;
+    }
+    #pricing-part .main .text .details::before {
+        left: 41px;
+        width: 200px;
 
+    }
       /* ========================================
                pricing part end
 
