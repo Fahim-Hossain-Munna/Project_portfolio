@@ -1,0 +1,1457 @@
+@media(min-width:320px) and (max-width:575px) {
+
+    /* ========================================
+               Navbar part Start
+
+================================================*/
+    nav .logo {
+        margin-top: 10px;
+    }
+
+    nav ul {
+        background: #d6c6b2;
+        text-align: center;
+        border-radius: 5px;
+    }
+
+    .navbar-nav .active::before {
+        display: none;
+    }
+
+    nav ul li a::before {
+        display: none;
+    }
+
+    nav ul li a {
+        margin-left: 0;
+        padding: 22px 10px !important;
+
+    }
+
+    .navbar-light .navbar-nav .nav-link.active,
+    .navbar-light .navbar-nav .show>.nav-link {
+        color: rgba(0, 0, 0, .55);
+    }
+
+    /* ========================================
+               Navbar part end
+
+================================================*/
+
+    /* ========================================
+               Banner part Start
+
+================================================*/
+
+    #banner-part .img {
+        display: none;
+    }
+
+    #banner-part .text {
+        padding-bottom: 41px;
+    }
+
+    #banner-part .text p {
+        text-align: left;
+        font-size: 18px;
+        padding-top: 180px;
+    }
+
+    #banner-part .text h2 {
+        font-size: 72px;
+        margin-left: 0px;
+    }
+
+    #banner-part .text h3 {
+        font-size: 58px;
+        margin-left: 0;
+    }
+
+    #banner-part .text .ancor a {
+        padding: 11px 8px;
+        margin-right: 11px;
+
+    }
+
+    /* ========================================
+               Banner part end
+
+================================================*/
+
+    /* ========================================
+               about part Start
+
+================================================*/
+    #about-part {
+        margin-top: 470px;
+    }
+
+    #about-part .img img {
+        width: 271px;
+    }
+
+    #about-part .text {
+        margin-top: -71px;
+    }
+
+    #about-part .text p {
+        width: 282px;
+    }
+
+    #about-part .text i {
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+        margin-right: 15px;
+
+    }
+
+    #about-part .text .textp2 {
+        padding-bottom: 20px;
+    }
+
+    #about-part .text h3 {
+        padding-bottom: 15px;
+    }
+
+    /* ========================================
+               about part end
+
+================================================*/
+
+    /* ========================================
+               Service part Start
+
+================================================*/
+    #service-part .item .img {
+        margin-left: 33%;
+    }
+
+    #service-part .item .img img {
+        margin-left: 20px;
+    }
+
+    #service-part {
+        margin-top: 42px;
+    }
+
+    #service-part .slick-next {
+        top: 105%;
+        left: 56%;
+    }
+
+    #service-part .slick-prev {
+        top: 105%;
+        left: 37%;
+    }
+
+    /* ========================================
+               Service part end
+
+================================================*/
+
+    /* ========================================
+               port part start
+
+================================================*/
+    #port-part .mix img {
+        width: 259px;
+    }
+
+    #port-part .s-main .mix .overlay i {
+        top: 45%;
+        left: 43%;
+    }
+
+    #port-part .s-main .mix .overlay h2 {
+        font-size: 18px;
+
+    }
+
+    #port-part .s-main .mix .overlay h4 {
+        font-size: 14px;
+    }
+
+    #port-part .text h2 {
+        margin-top: -35px;
+
+        text-align: center;
+    }
+
+    #port-part .mixitup-control-active {
+        color: #d6c6b2 !important;
+        padding-left: 12px;
+        text-align: center;
+    }
+
+    #port-part ul li {
+        padding: 16px 20px;
+        font-size: 15px;
+        border: 1px solid #d6c6b2;
+        margin: 7px;
+        text-align: center;
+        display: inline-block;
+    }
+
+    /* ========================================
+               port part end
+
+================================================*/
+
+  /* ========================================
+               team part Start
+
+================================================*/
+    #team-part .title h2 {
+        padding-top: 50px;
+        padding-bottom: 20px;
+    }
+
+    /* .slick-slide img {
+        width: 138px;
+    } */
+    #team-part .item .main .img img{
+        width: 146px;
+    }
+
+    #team-part .item .main .text {
+        margin-left: -52px;
+        margin-top: 154px;
+    }
+
+    #team-part .item .main .text h3 {
+        font-size: 19px;
+
+    }
+
+    #team-part .item .main .text h4 {
+        font-size: 13px;
+
+    }
+
+    #team-part .item .main .text p {
+        font-size: 13px;
+        padding-bottom: 7px;
+    }
+
+    #team-part .slick-prev {
+        top: 102%;
+        left: 37%;
+
+    }
+
+    #team-part .slick-next {
+        top: 102%;
+        left: 55%;
+    }
+
+  /* ========================================
+               team part end
+
+================================================*/
+
+  /* ========================================
+               pricing part start
+
+================================================*/
+
+    #pricing-part .main {
+        background: #f1f1f1;
+        text-align: center;
+        transition: .4s;
+        margin: 10px;
+    }
+
+      /* ========================================
+               pricing part end
+
+================================================*/
+
+      /* ========================================
+               blog part start
+
+================================================*/
+
+    #blog-part .item {
+        display: block;
+    }
+    #blog-part .item .img img{
+        width: 100%;
+    }
+    #blog-part .item .text span {
+        font-size: 17px;
+    }
+    #blog-part .item .text .share i {
+        margin-left: 101px;
+    }
+    #blog-part .item .text a {
+        margin-bottom: 20px;
+    }
+
+    #blog-part .main .text .non-user {
+        display: inline-block;
+        margin-left: 0px;
+    }
+    #blog-part .main .text .share i {
+        margin-left: 96px;
+    }
+    #blog-part .btn a {
+        margin-bottom: 60px;
+    }
+
+          /* ========================================
+               blog part end
+
+================================================*/
+
+          /* ========================================
+               footer part start
+
+================================================*/
+footer {
+	padding: 0px 0;
+}
+footer .message .top input {
+	width: 94%;
+	margin-left: 9px;
+	margin-bottom: 8px;
+}
+footer .message .bottom input {
+	width: 93.3%;
+	margin-left: 10px;
+}
+
+footer .message .icon1 i {
+	right: 8px;
+}
+footer .message {
+	margin-bottom: 36px;
+}
+          /* ========================================
+               footer part end
+
+================================================*/
+    /* ======================================================================================== */
+}
+@media(min-width:576px) and (max-width:767px) {
+
+    /* ========================================
+               Navbar part Start
+
+================================================*/
+    nav .logo {
+        margin-top: 10px;
+    }
+
+    nav ul {
+        background: #d6c6b2;
+        text-align: center;
+        border-radius: 5px;
+    }
+
+    .navbar-nav .active::before {
+        display: none;
+    }
+
+    nav ul li a::before {
+        display: none;
+    }
+
+    nav ul li a {
+        margin-left: 0;
+        padding: 22px 10px !important;
+
+    }
+
+    .navbar-light .navbar-nav .nav-link.active,
+    .navbar-light .navbar-nav .show>.nav-link {
+        color: rgba(0, 0, 0, .55);
+    }
+
+    /* ========================================
+               Navbar part end
+
+================================================*/
+
+    /* ========================================
+               Banner part Start
+
+================================================*/
+
+    #banner-part .img {
+        display: none;
+    }
+    #banner-part .main {
+        display: block;
+    }
+
+    #banner-part .text {
+        text-align: center;
+        padding-bottom: 41px;
+        padding-right: 0px;
+    }
+
+    #banner-part .text p {
+        text-align: center;
+        font-size: 18px;
+        padding-top: 180px;
+    }
+
+    #banner-part .text h2 {
+        font-size: 72px;
+        margin-left: 0px;
+    }
+
+    #banner-part .text h3 {
+        font-size: 65px;
+        margin-left: 91px;
+    }
+
+    #banner-part .text .ancor a {
+        padding: 11px 8px;
+        margin-right: 11px;
+
+    }
+
+    /* ========================================
+               Banner part end
+
+================================================*/
+
+    /* ========================================
+               about part Start
+
+================================================*/
+    #about-part {
+        margin-top: 470px;
+    }
+
+    #about-part .img img {
+        width: 368px;
+    }
+    #about-part .text h2 {
+        margin-top: -114px;
+    }
+    #about-part .text {
+        margin-top: -71px;
+    }
+
+    #about-part .text p {
+        width: 502px;
+    }
+
+    #about-part .text i {
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+        margin-right: 15px;
+
+    }
+
+    #about-part .text .textp2 {
+        padding-bottom: 20px;
+    }
+
+    #about-part .text h3 {
+        padding-bottom: 15px;
+    }
+
+    /* ========================================
+               about part end
+
+================================================*/
+
+    /* ========================================
+               Service part Start
+
+================================================*/
+    #service-part .item .img {
+        margin-left: 33%;
+    }
+
+    #service-part .item .img img {
+        margin-left: 53px;
+    }
+
+    #service-part {
+        margin-top: 42px;
+    }
+
+    #service-part .slick-next {
+        top: 105%;
+        left: 56%;
+    }
+
+    #service-part .slick-prev {
+        top: 105%;
+        left: 37%;
+    }
+
+    /* ========================================
+               Service part end
+
+================================================*/
+
+    /* ========================================
+               port part start
+
+================================================*/
+    #port-part .mix img {
+        width: 259px;
+    }
+
+    #port-part .s-main .mix .overlay i {
+        top: 45%;
+        left: 43%;
+    }
+
+    #port-part .s-main .mix .overlay h2 {
+        font-size: 18px;
+
+    }
+
+    #port-part .s-main .mix .overlay h4 {
+        font-size: 14px;
+    }
+
+    #port-part .text h2 {
+        margin-top: -35px;
+
+        text-align: center;
+    }
+
+    #port-part .mixitup-control-active {
+        color: #d6c6b2 !important;
+        padding-left: 12px;
+        text-align: center;
+    }
+
+    #port-part ul li {
+        padding: 16px 20px;
+        font-size: 15px;
+        border: 1px solid #d6c6b2;
+        margin: 7px;
+        text-align: center;
+        display: inline-block;
+    }
+
+    /* ========================================
+               port part end
+
+================================================*/
+
+  /* ========================================
+               team part Start
+
+================================================*/
+    #team-part .title h2 {
+        padding-top: 50px;
+        padding-bottom: 20px;
+    }
+
+    /* .slick-slide img {
+        width: 138px;
+    } */
+    #team-part .item .main .img img{
+        width: 146px;
+    }
+
+    #team-part .item .main .text {
+        margin-left: -52px;
+        margin-top: 154px;
+    }
+
+    #team-part .item .main .text h3 {
+        font-size: 19px;
+
+    }
+
+    #team-part .item .main .text h4 {
+        font-size: 13px;
+
+    }
+
+    #team-part .item .main .text p {
+        font-size: 14px;
+        padding-bottom: 7px;
+    }
+
+    #team-part .slick-prev {
+        top: 102%;
+        left: 37%;
+
+    }
+
+    #team-part .slick-next {
+        top: 102%;
+        left: 55%;
+    }
+
+  /* ========================================
+               team part end
+
+================================================*/
+
+  /* ========================================
+               pricing part start
+
+================================================*/
+
+    #pricing-part .main {
+        background: #f1f1f1;
+        text-align: center;
+        transition: .4s;
+        margin: 10px;
+    }
+    #pricing-part .main .text .img-rocket {
+        left: 92px;
+    }
+    #pricing-part .main .text .rocket{
+        left: 145px;
+        position: absolute;
+        top: 8px;
+
+    }
+    #pricing-part .main .text .details::before {
+        left: 35px;
+        width: 155px;
+
+    }
+    #pricing-part .main .text .info::before{
+        left: 144px;
+        width: 202px;
+    }
+
+      /* ========================================
+               pricing part end
+
+================================================*/
+
+      /* ========================================
+               blog part start
+
+================================================*/
+
+    #blog-part .item {
+        display: block;
+    }
+    #blog-part .item .img img{
+        width: 100%;
+    }
+    #blog-part .item .text span {
+        font-size: 17px;
+    }
+    #blog-part .item .text .share i {
+        margin-left: 298px;
+    }
+    #blog-part .item .text a {
+        margin-bottom: 20px;
+    }
+
+    #blog-part .main .text .non-user {
+        display: inline-block;
+        margin-left: 0px;
+    }
+    #blog-part .main .text .share i {
+        margin-left: 316px;
+    }
+    #blog-part .btn a {
+        margin-bottom: 60px;
+    }
+    #blog-part .item:hover .img .overlay .over-text {
+        padding-left: 87%;
+    }
+
+          /* ========================================
+               blog part end
+
+================================================*/
+
+          /* ========================================
+               footer part start
+
+================================================*/
+footer {
+	padding: 0px 0;
+}
+footer .left h2 {
+	padding-top: 0px;
+
+}
+footer .message .top input {
+	width: 94%;
+	margin-left: 9px;
+	margin-bottom: 8px;
+}
+footer .message .bottom input {
+	width: 93.3%;
+	margin-left: 10px;
+}
+
+footer .message .icon1 i {
+	right: 22px;
+}
+footer .message {
+	margin-bottom: 36px;
+}
+          /* ========================================
+               footer part end
+
+================================================*/
+    /* ======================================================================================== */
+}
+@media(min-width:768px) and (max-width:991px) {
+
+    /* ========================================
+               Navbar part Start
+
+================================================*/
+    nav .logo {
+        margin-top: 10px;
+    }
+
+    nav ul {
+        background: #d6c6b2;
+        text-align: center;
+        border-radius: 5px;
+    }
+
+    .navbar-nav .active::before {
+        display: none;
+    }
+
+    nav ul li a::before {
+        display: none;
+    }
+
+    nav ul li a {
+        margin-left: 0;
+        padding: 22px 10px !important;
+
+    }
+
+    .navbar-light .navbar-nav .nav-link.active,
+    .navbar-light .navbar-nav .show>.nav-link {
+        color: rgba(0, 0, 0, .55);
+    }
+
+    /* ========================================
+               Navbar part end
+
+================================================*/
+
+    /* ========================================
+               Banner part Start
+
+================================================*/
+
+    #banner-part .img {
+        display: none;
+    }
+    #banner-part .main {
+        display: block;
+    }
+
+    #banner-part .text {
+        text-align: center;
+        padding-bottom: 41px;
+        padding-right: 0px;
+    }
+
+    #banner-part .text p {
+        text-align: center;
+        font-size: 18px;
+        padding-top: 180px;
+    }
+
+    #banner-part .text h2 {
+        font-size: 72px;
+        margin-left: 0px;
+    }
+
+    #banner-part .text h3 {
+        font-size: 65px;
+        margin-left: 179px;
+    }
+
+
+    #banner-part .text .ancor a {
+        padding: 11px 8px;
+        margin-right: 11px;
+
+    }
+
+    /* ========================================
+               Banner part end
+
+================================================*/
+
+    /* ========================================
+               about part Start
+
+================================================*/
+    #about-part {
+        margin-top: 470px;
+    }
+
+    #about-part .img img {
+        width: 307px;
+    }
+    #about-part .text h2 {
+        margin-top: 73px;
+    }
+    #about-part .text {
+        margin-top: -71px;
+    }
+
+    #about-part .text p {
+        width: 356px;
+    }
+
+    #about-part .text i {
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+        margin-right: 15px;
+
+    }
+
+    #about-part .text .textp2 {
+        padding-bottom: 20px;
+    }
+
+    #about-part .text h3 {
+        padding-bottom: 15px;
+    }
+
+    /* ========================================
+               about part end
+
+================================================*/
+
+    /* ========================================
+               Service part Start
+
+================================================*/
+    #service-part .item .img {
+        margin-left: 33%;
+    }
+
+    #service-part .item .img img {
+        margin-left: 26px;
+    }
+    
+
+    #service-part {
+        margin-top: 42px;
+    }
+
+    #service-part .slick-next {
+        top: 105%;
+        left: 53%;
+    }
+
+    #service-part .slick-prev {
+        top: 105%;
+        left: 43%;
+    }
+
+    /* ========================================
+               Service part end
+
+================================================*/
+
+    /* ========================================
+               port part start
+
+================================================*/
+    #port-part .mix img {
+        width: 259px;
+    }
+
+    #port-part .s-main .mix .overlay i {
+        top: 45%;
+        left: 43%;
+    }
+
+    #port-part .s-main .mix .overlay h2 {
+        font-size: 18px;
+
+    }
+
+    #port-part .s-main .mix .overlay h4 {
+        font-size: 14px;
+    }
+
+    #port-part .text h2 {
+        margin-top: -35px;
+
+        text-align: center;
+    }
+
+    #port-part .mixitup-control-active {
+        color: #d6c6b2 !important;
+        padding-left: 12px;
+        text-align: center;
+    }
+
+    /* #port-part ul li {
+        padding: 16px 20px;
+        font-size: 15px;
+        margin: 7px;
+        text-align: center;
+        display: inline-block;
+    } */
+
+    /* ========================================
+               port part end
+
+================================================*/
+
+  /* ========================================
+               team part Start
+
+================================================*/
+    #team-part .title h2 {
+        padding-top: 50px;
+        padding-bottom: 20px;
+    }
+
+    /* .slick-slide img {
+        width: 138px;
+    } */
+    #team-part .item .main .img img{
+        width: 146px;
+    }
+
+    #team-part .item .main .text {
+        margin-left: -52px;
+        margin-top: 154px;
+    }
+
+    #team-part .item .main .text h3 {
+        font-size: 19px;
+
+    }
+
+    #team-part .item .main .text h4 {
+        font-size: 13px;
+
+    }
+
+    #team-part .item .main .text p {
+        font-size: 14px;
+        padding-bottom: 7px;
+    }
+
+    #team-part .slick-prev {
+        top: 102%;
+        left: 43%;
+
+    }
+
+    #team-part .slick-next {
+        top: 102%;
+        left: 53%;
+    }
+
+  /* ========================================
+               team part end
+
+================================================*/
+
+  /* ========================================
+               pricing part start
+
+================================================*/
+
+#pricing-part .main {
+    background: #f1f1f1;
+    text-align: center;
+    transition: .4s;
+    margin: 10px;
+}
+#pricing-part .main .text .img-rocket {
+    left: 139px;
+}
+#pricing-part .main .text .rocket{
+    left: 145px;
+    position: absolute;
+    top: 8px;
+
+}
+#pricing-part .main .text .details::before {
+    left: 81px;
+    width: 155px;
+
+}
+#pricing-part .main .text .info::before{
+    left: 229px;
+    width: 202px;
+}
+
+      /* ========================================
+               pricing part end
+
+================================================*/
+
+      /* ========================================
+               blog part start
+
+================================================*/
+
+    #blog-part .item {
+        display: block;
+    }
+    #blog-part .item .img img{
+        width: 100%;
+    }
+    #blog-part .item .text span {
+        font-size: 17px;
+    }
+    #blog-part .item .text .share i {
+        margin-left: 501px;
+    }
+    #blog-part .item .text a {
+        margin-bottom: 20px;
+    }
+
+    #blog-part .main .text .non-user {
+        display: inline-block;
+        margin-left: 0px;
+    }
+    #blog-part .main .text .share i {
+        margin-left: 496px;
+    }
+    #blog-part .btn a {
+        margin-bottom: 60px;
+    }
+    #blog-part .item:hover .img .overlay .over-text {
+        padding-left: 87%;
+    }
+
+          /* ========================================
+               blog part end
+
+================================================*/
+
+          /* ========================================
+               footer part start
+
+================================================*/
+footer {
+	padding: 0px 0;
+}
+footer .left h2 {
+	padding-top: 0px;
+
+}
+footer .message .top input {
+	width: 94%;
+	margin-left: 9px;
+	margin-bottom: 8px;
+}
+footer .message .bottom input {
+	width: 93.3%;
+	margin-left: 10px;
+}
+
+footer .message .icon1 i {
+	right: 34px;
+}
+footer .message {
+	margin-bottom: 36px;
+}
+          /* ========================================
+               footer part end
+
+================================================*/
+    /* ======================================================================================== */
+}
+@media(min-width:992px) and (max-width:1199px) {
+
+    /* ========================================
+               Navbar part Start
+
+================================================*/
+nav ul li a{
+    color: #222222;
+    font-size: 20px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    margin-left: 10px;
+    position: relative;
+    z-index: 999;
+    background: transparent;
+    padding: 25px 10px !important;
+    
+}
+    /* nav .logo {
+        margin-top: 10px;
+    }
+
+    nav ul {
+        background: #d6c6b2;
+        text-align: center;
+        border-radius: 5px;
+    }
+
+    .navbar-nav .active::before {
+        display: none;
+    }
+
+    nav ul li a::before {
+        display: none;
+    }
+
+    nav ul li a {
+        margin-left: 0;
+        padding: 22px 10px !important;
+
+    }
+
+    .navbar-light .navbar-nav .nav-link.active,
+    .navbar-light .navbar-nav .show>.nav-link {
+        color: rgba(0, 0, 0, .55);
+    } */
+
+    /* ========================================
+               Navbar part end
+
+================================================*/
+
+    /* ========================================
+               Banner part Start
+
+================================================*/
+
+    #banner-part .img {
+            margin-left: 66px;
+            position: relative;
+            width: 56%;
+    }
+    #banner-part .img  img{
+         width: 594px;
+    }
+    /* #banner-part .main {
+        display: block;
+    } */
+
+    #banner-part .text {
+        text-align: center;
+        padding-bottom: 41px;
+        padding-right: 0px;
+    }
+
+    #banner-part .text p {
+        text-align: right;
+        font-size: 20px;
+        padding-top: 246px;
+    }
+
+    #banner-part .text h2 {
+        font-size: 96px;
+        margin-left: -11px;
+        /* margin-top: 95px; */
+    }
+
+    #banner-part .text h3 {
+        font-size: 76px;
+        margin-left: -38px;
+    }
+
+
+    #banner-part .text .ancor a {
+        padding: 11px 8px;
+        margin-right: 11px;
+
+    }
+
+    /* ========================================
+               Banner part end
+
+================================================*/
+
+    /* ========================================
+               about part Start
+
+================================================*/
+    #about-part {
+        margin-top: 605px;
+    }
+
+    #about-part .img img {
+        width: 100%;
+    }
+    #about-part .text h2 {
+        margin-top: 73px;
+    }
+    #about-part .text {
+        margin-top: -71px;
+    }
+
+    #about-part .text p {
+        width: 475px;
+    }
+
+    #about-part .text i {
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+        margin-right: 15px;
+
+    }
+
+    #about-part .text .textp2 {
+        padding-bottom: 20px;
+    }
+
+    #about-part .text h3 {
+        padding-bottom: 15px;
+    }
+
+    /* ========================================
+               about part end
+
+================================================*/
+
+    /* ========================================
+               Service part Start
+
+================================================*/
+    #service-part .item .img {
+        margin-left: 33%;
+    }
+
+    #service-part .item .img img {
+        margin-left: 26px;
+    }
+    
+
+    #service-part {
+        margin-top: 42px;
+    }
+
+    #service-part .slick-next {
+        top: 105%;
+        left: 53%;
+    }
+
+    #service-part .slick-prev {
+        top: 105%;
+        left: 43%;
+    }
+
+    /* ========================================
+               Service part end
+
+================================================*/
+
+    /* ========================================
+               port part start
+
+================================================*/
+    #port-part .mix img {
+        width: 259px;
+    }
+
+    #port-part .s-main .mix .overlay i {
+        top: 45%;
+        left: 43%;
+    }
+
+    #port-part .s-main .mix .overlay h2 {
+        font-size: 18px;
+
+    }
+
+    #port-part .s-main .mix .overlay h4 {
+        font-size: 14px;
+    }
+
+    #port-part .text h2 {
+        margin-top: -35px;
+
+        text-align: center;
+    }
+
+    #port-part .mixitup-control-active {
+        color: #d6c6b2 !important;
+        padding-left: 12px;
+        text-align: center;
+    }
+
+    /* #port-part ul li {
+        padding: 16px 20px;
+        font-size: 15px;
+        margin: 7px;
+        text-align: center;
+        display: inline-block;
+    } */
+
+    /* ========================================
+               port part end
+
+================================================*/
+
+  /* ========================================
+               team part Start
+
+================================================*/
+    #team-part .title h2 {
+        padding-top: 50px;
+        padding-bottom: 20px;
+    }
+
+    /* .slick-slide img {
+        width: 138px;
+    } */
+    #team-part .item .main .img img{
+        width: 146px;
+    }
+
+    #team-part .item .main .text {
+        margin-left: -52px;
+        margin-top: 154px;
+    }
+
+    #team-part .item .main .text h3 {
+        font-size: 19px;
+
+    }
+
+    #team-part .item .main .text h4 {
+        font-size: 13px;
+
+    }
+
+    #team-part .item .main .text p {
+        font-size: 14px;
+        padding-bottom: 7px;
+    }
+
+    #team-part .slick-prev {
+        top: 102%;
+        left: 43%;
+
+    }
+
+    #team-part .slick-next {
+        top: 102%;
+        left: 53%;
+    }
+
+  /* ========================================
+               team part end
+
+================================================*/
+
+  /* ========================================
+               pricing part start
+
+================================================*/
+
+#pricing-part .main {
+    background: #f1f1f1;
+    text-align: center;
+    transition: .4s;
+    margin: 10px;
+}
+#pricing-part .main .text .img-rocket {
+    left: 121px;
+}
+#pricing-part .main .text .rocket{
+    left: 8px;
+    position: absolute;
+    top: 8px;
+
+}
+#pricing-part .main .text .details::before {
+    left: 66px;
+    width: 155px;
+
+}
+#pricing-part .main .text .info::before{
+    left: 66px;
+    width: 155px;
+}
+
+      /* ========================================
+               pricing part end
+
+================================================*/
+
+      /* ========================================
+               blog part start
+
+================================================*/
+
+    #blog-part .item {
+        display: block;
+    }
+    #blog-part .item .img img{
+        width: 100%;
+    }
+    #blog-part .item .text span {
+        font-size: 17px;
+    }
+    #blog-part .item .text .share i {
+        margin-left: 261px;
+    }
+    #blog-part .item .text a {
+        margin-bottom: 20px;
+    }
+
+    #blog-part .main .text .non-user {
+        display: inline-block;
+        margin-left: 0px;
+    }
+    #blog-part .main .text .share i {
+        margin-left: 256px;
+    }
+    #blog-part .btn a {
+        margin-bottom: 60px;
+    }
+    #blog-part .item:hover .img .overlay .over-text {
+        padding-left: 87%;
+    }
+
+          /* ========================================
+               blog part end
+
+================================================*/
+
+          /* ========================================
+               footer part start
+
+================================================*/
+footer {
+	padding: 0px 0;
+}
+footer .left h2 {
+	padding-top: 0px;
+
+}
+footer .message .top input {
+	width: 94%;
+	margin-left: 9px;
+	margin-bottom: 8px;
+}
+footer .message .bottom input {
+	width: 93.3%;
+	margin-left: 10px;
+}
+
+footer .message .icon1 i {
+    right: 29px;
+}
+
+footer .message {
+	margin-bottom: 36px;
+}
+          /* ========================================
+               footer part end
+
+================================================*/
+    /* ======================================================================================== */
+}
