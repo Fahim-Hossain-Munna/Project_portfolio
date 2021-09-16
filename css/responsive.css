@@ -265,8 +265,7 @@
         left: 125px;
     }
     #pricing-part .main .text .details::before {
-        left: 41px;
-        width: 200px;
+        display: none;
 
     }
       /* ========================================
