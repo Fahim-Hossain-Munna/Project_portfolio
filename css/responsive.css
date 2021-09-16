@@ -620,13 +620,11 @@ footer .message {
 
     }
     #pricing-part .main .text .details::before {
-        left: 35px;
-        width: 155px;
+        display: none;
 
     }
     #pricing-part .main .text .info::before{
-        left: 144px;
-        width: 202px;
+       display: none;
     }
 
       /* ========================================
